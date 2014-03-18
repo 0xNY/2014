@@ -1,0 +1,10 @@
+C:\Git\Git Test\Git Test\bin\Debug\Git Test.exe.config
+C:\Git\Git Test\Git Test\bin\Debug\Git Test.exe
+C:\Git\Git Test\Git Test\bin\Debug\Git Test.pdb
+C:\Git\Git Test\Git Test\bin\Debug\Git Test.xml
+C:\Git\Git Test\Git Test\obj\Debug\Git_Test.Form1.resources
+C:\Git\Git Test\Git Test\obj\Debug\Git_Test.Resources.resources
+C:\Git\Git Test\Git Test\obj\Debug\Git Test.vbproj.GenerateResource.Cache
+C:\Git\Git Test\Git Test\obj\Debug\Git Test.exe
+C:\Git\Git Test\Git Test\obj\Debug\Git Test.xml
+C:\Git\Git Test\Git Test\obj\Debug\Git Test.pdb
